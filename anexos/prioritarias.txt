@@ -1,0 +1,136 @@
+Administração (Noturno) (B)
+LPL; MAT
+400
+LPL; MAT
+HIS; GEO
+INTER
+Administração Pública (Noturno) (B)
+LPL; HIS
+400
+LPL; MAT; HIS; GEO
+-
+INTER
+Arquitetura e Urbanismo (Noturno) (A)
+HE
+500
+HE; MAT
+-
+LPL; INTER; HIS; GEO
+Artes Cênicas (Integral) (A)
+HE; LPL
+500
+HE; LPL
+-
+MAT; HIST; GEO; INTER
+Artes Visuais (Integral) (A)
+HE; HIS
+500
+HE; LPL; HIS; GEO
+INTER
+MAT
+Ciências Econômicas (Integral)
+MAT; HIS
+450
+LPL; HIS; GEO
+MAT
+INTER
+Ciências Econômicas (Noturno)
+MAT; HIS
+450
+LPL; HIS; GEO
+MAT
+INTER
+Ciências Sociais (Integral) 
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Ciências Sociais (Noturno) 
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Comunicação Social - Midialogia (Integral)
+HIS; MAT
+450
+LPL; HIS; GEO
+MAT
+INTER
+Dança (Integral) (A)
+HE; LPL
+500
+HE
+LPL
+MAT; HIST; GEO; INTER
+Estudos Literários (Integral)
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Filosofia (Integral)
+LPL
+500
+LPL
+MAT; HIS
+GEO; INTER
+Geografia (Integral)
+LPL; GEO
+400
+LPL; HIS; GEO
+MAT
+INTER
+Geografia (Noturno)
+LPL; GEO
+400
+LPL; HIS; GEO
+MAT
+INTER
+História (Integral)
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Licenciatura em Letras - Português (Integral)
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Licenciatura em Letras - Português (Noturno)
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Linguística (Integral)
+LPL; HIS
+500
+LPL; HIS; GEO
+MAT
+INTER
+Música: Composição (Integral) (A)
+HE
+-
+HE
+LPL
+MAT; HIST; GEO; INTER
+Música Erudita: Instrumentos (Integral) (A) (D)
+Música: Licenciatura (Integral) (A)
+Música Popular: Instrumentos (Integral) (A) (E)
+Música: Regência (Integral) (A)
+Pedagogia (Integral)
+LPL; HIS
+400
+LPL; HIS; GEO
+MAT
+INTER
+Pedagogia (Noturno)
+LPL; HIS
+400
+LPL; HIS; GEO
+MAT
+INTER
